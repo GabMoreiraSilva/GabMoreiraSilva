@@ -1,4 +1,7 @@
-### Hi there 👋
+### Gabriel Moreira Silva
+
+[![Twitter Badge](https://img.shields.io/badge/-@gmoreirasilva1-8B0000?style=flat-square&labelColor=8B0000&logo=twitter&logoColor=white&link=https://twitter.com/gmoreirasilva1)](https://twitter.com/gmoreirasilva1) 
+
 
 <!--
 **GabMoreiraSilva/GabMoreiraSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

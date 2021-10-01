@@ -1,6 +1,6 @@
 ## Gabriel Moreira Silva
 
-**Sou formado em administração pela Universidade Cruzeiro do Sul, sou Técnico em Informática certificado, possuo conhecimento em Machine Learning e Estatística**
+**Sou formado em Administração pela UNICSUL e possuo Certificação de Técnico em Informática, além disso tenho conhecimento em Estatística, Machine Learning e Data Science obtidos atráves da plataforma da Alura, FreeCodeCamp e das recomendações de estudos da comunidade do Data Hackers.**
 
 > "Quem não tem dúvida é porque leu pouco; quem tem muita certeza é porque não passou da página 3."
 -Luiz Felipe Pondé

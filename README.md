@@ -2,8 +2,8 @@
 
 **Sou formado em Administração pela UNICSUL e possuo Certificação de Técnico em Informática, além disso tenho conhecimento em Estatística, Machine Learning e Data Science obtidos atráves da plataforma da Alura, FreeCodeCamp e das recomendações de estudos da comunidade do Data Hackers.**
 
-> "If knowledge can create problems, it is not through ignorance that we can solve them"
--Isaac Asimov
+> "If knowledge can create problems, it is not through ignorance that we can solve them"<br>
+>  -Isaac Asimov
 
 <div style="display: inline_block"><br>
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> 

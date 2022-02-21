@@ -1,6 +1,6 @@
 ## Gabriel Moreira Silva
 
-**Sou formado em Administração pela UNICSUL e possuo Certificação de Técnico em Informática, além disso tenho conhecimento em Estatística, Machine Learning e Data Science obtidos atráves da plataforma da Alura, FreeCodeCamp e das recomendações de estudos da comunidade do Data Hackers.**
+**Sou formado em Administração pela UNICSUL e possuo Certificação de Técnico em Informática, além disso tenho conhecimento em Estatística, Machine Learning e Data Science, consigo ficar muitas horas em frente ao computador, adquiro conhecimento de forma autodidata e consigo trabalhar sob pressão.**
 
 > "If knowledge can create problems, it is not through ignorance that we can solve them"<br>
 >  -Isaac Asimov

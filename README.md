@@ -1,6 +1,6 @@
 ## Gabriel Moreira Silva
 
-**Sou formado em Administração pela UNICSUL e possuo Certificação de Técnico em Informática, além disso tenho conhecimento em Estatística, Machine Learning e Data Science, consigo ficar muitas horas em frente ao computador, adquiro conhecimento de forma autodidata e consigo trabalhar sob pressão.**
+**Sou formado em Administração pela UNICSUL e possuo Certificação de Técnico em Informática, atualmente estou em formação para software engineer, como sou cadete da 42, tenho conhecimento em Estatística, Machine Learning e Data Science, adquiro conhecimento de forma autodidata.**
 
 > "If knowledge can create problems, it is not through ignorance that we can solve them"<br>
 >  -Isaac Asimov
@@ -19,7 +19,6 @@
 <div>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabMoreiraSilva&layout=compact&langs_count=7&theme=merko"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabMoreiraSilva&layout=compact&langs_count=8&theme=merko"/>
-<img height="160em" src="https://badge42.herokuapp.com/api/stats/gmoreira?darkmode=true&cursus=Basecamp"/>
 <div>
 
 [![freeCodeCamp Badge](https://img.shields.io/badge/FreeCodeCamp-A10220?style=style=flat-squarelabelColor=A10220&logo=Freecodecamp&logoColor=white&link=https://www.freecodecamp.org/gabmoreirasilva)](https://www.freecodecamp.org/gabmoreirasilva) [![Pen Code Badge](https://img.shields.io/badge/Codepen-A10220?style=style=flat-squarelabelColor=A10220&logo=Codepen&logoColor=white&link=https:https://codepen.io/Barboca)](https://codepen.io/Barboca) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-A10220?style=flat-square&labelColor=A10220&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-moreira-silva-1aab98163/)](https://www.linkedin.com/in/gabriel-moreira-silva-1aab98163/) [![Twitter Badge](https://img.shields.io/badge/-gmoreirasilva1-A10220?style=flat-square&labelColor=A10220&logo=twitter&logoColor=white&link=https://twitter.com/gmoreirasilva1)](https://twitter.com/gmoreirasilva1) [![Instagram Badge](https://img.shields.io/badge/-@g.moreirasilva-A10220?style=flat-square&labelColor=A10220&logo=instagram&logoColor=white&link=https://instagram.com/g.moreirasilva)](https://instagram.com/g.moreirasilva) [![Skoob Badge](https://img.shields.io/badge/Skoob-A10220?style=flat-square&labelColor=A10220&&logo=bookstack&logoColor=white)](https://www.skoob.com.br/perfil/GabMoreiraSilva) ![CodeWars Badge](https://www.codewars.com/users/GabMoreiraSilva/badges/micro)

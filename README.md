@@ -1,6 +1,6 @@
 ## Gabriel Moreira Silva
 
-**Sou formado em Administração pela UNICSUL e possuo Certificação de Técnico em Informática, atualmente estou em formação para software engineer, como cadete da 42, tenho conhecimento em Estatística, Machine Learning e Data Science, adquiro conhecimento de forma autodidata.**
+**Sou formado em Administração pela UNICSUL e possuo Certificação de Técnico em Informática, atualmente estou em formação para software engineer, como cadete da 42, tenho conhecimento em Estatística, Machine Learning e Data Science.**
 
 > "If knowledge can create problems, it is not through ignorance that we can solve them"<br>
 >  -Isaac Asimov

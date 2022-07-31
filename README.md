@@ -2,8 +2,6 @@
 <h3 align="center">Administrador | Cientista de Dados | Software Engineer | Python | PHP | Javascript | NodeJs | C/C++</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabmoreirasilva&label=Profile%20views&color=0e75b6&style=flat" alt="gabmoreirasilva" /> </p>
-> "If knowledge can create problems, it is not through ignorance that we can solve them"<br>
->  -Isaac Asimov
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabMoreiraSilva&layout=compact&hide=jupyter%20notebook&theme=merko"/> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabMoreiraSilva&show_icons=true&theme=merko"/><img height="320em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabmoreirasilva&theme=merko" alt="gabmoreirasilva" />
 

@@ -7,7 +7,9 @@
 
 ## Badges<br>
 <img height="125px" src="https://images.credly.com/images/d7321425-c989-4bf9-846a-cd2a647d213b/Data_Sci_Foundations_Level_2_-_CC_-_2019.png"/><img height="125px" src="https://images.credly.com/images/dfd6eb51-4caa-4ffe-b107-85ece064370c/Data_Science_Methodologies.png"/><img height="125px" src="https://images.credly.com/images/de9471ce-018c-4bf4-af49-5c9c1d488613/Data_Science_Tools.png"/><img height="125px" src="https://images.credly.com/images/feef3ba3-aa7d-4b0a-aed9-7481e5546f33/Fit_to_Learn_-_Data_Analyst.png"/><img height="125px" src="https://images.credly.com/images/7077806b-8078-4a80-9f31-ce8965005fcf/Fit_to_Learn_-_Cybersecurity_Professional.png"/><img height="125px" src="https://images.credly.com/images/7999c12f-3903-4d07-a385-fdb655aee344/Fit_to_Learn_-_Linux_System_Administrator.png"/><br>
-<img height="125px" src="https://game.42sp.org.br/static/assets/achievements/libftm.png"/><img height="125px" src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png"/><img height="125px" src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png"/>
+<img height="125px" src="https://game.42sp.org.br/static/assets/achievements/libftm.png"/><img height="125px" src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png"/><img height="125px" src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png"/><img height="125px" src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png"/>
+
+
 
 ***
 <p align="left"> <a href="https://twitter.com/gmoreirasilva1" target="blank"><img src="https://img.shields.io/twitter/follow/gmoreirasilva1?logo=twitter&style=for-the-badge" alt="gmoreirasilva1" /></a> </p>

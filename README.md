@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Moreira</h1>
-<h3 align="center">Software Engineering at 42sp | Cientista de Dados | Administrador | Python | PHP | Javascript | NodeJs | C/C++ | MongoDB | MySQL | Docker</h3>
+<h3 align="center">Software Engineering at 42sp | Administrador | Cientista de Dados | Desenvolvedor</h3>
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabMoreiraSilva&layout=compact&hide=jupyter%20notebook&theme=merko"/> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabMoreiraSilva&show_icons=true&theme=merko"/><img height="320em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabmoreirasilva&theme=merko" alt="gabmoreirasilva" />
 
